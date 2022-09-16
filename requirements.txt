@@ -9,6 +9,7 @@ numpy
 pandas
 scikit-learn
 jupyter
+tensorflow
 
 # tests/linter
 black
